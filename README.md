@@ -22,16 +22,9 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoG-S&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-
----
-
-## 🌎 Encuéntrame en
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
-- [Portafolio personal](https://tu-dominio.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoG-S&layout=compact&theme=radical)
 
 ---
 
