@@ -1,7 +1,7 @@
 # [![github-header-banner-1.png](https://i.postimg.cc/B6S8SnPc/github-header-banner-1.png)](https://postimg.cc/v1K8XMzc)
 
 💻 Desarrollador apasionado por la tecnología y el aprendizaje constante.  
-🚀 Me gusta crear proyectos que resuelvan problemas reales y experimentar con nuevas herramientas.  
+🚀 Siempre buscando crecer y explorar nuevas formas de crear con código. 
 
 ---
 
