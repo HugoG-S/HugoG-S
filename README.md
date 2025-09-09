@@ -24,9 +24,9 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoG-S&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoG-S&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoG-S&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoG-S&layout=compact&theme=dracula)
 
 ---
 
