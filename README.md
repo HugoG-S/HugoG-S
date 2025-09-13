@@ -8,8 +8,20 @@
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:**
 <p align="left">
-Python <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> Java <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"> Dart <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a>
+  · <span style="font-size:16px;">Python</span>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
+  </a><br>
+  · <span style="font-size:16px;">Java</span>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" />
+  </a><br>
+  · <span style="font-size:16px;">Dart</span>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" />
+  </a>
 </p>
+
 
 - **Bases de datos:** 
 <p align="left">
