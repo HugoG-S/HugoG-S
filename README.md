@@ -1,7 +1,6 @@
 # [![github-header-banner-1.png](https://i.postimg.cc/B6S8SnPc/github-header-banner-1.png)](https://postimg.cc/v1K8XMzc)
 
-💻 Desarrollador apasionado por la tecnología y el aprendizaje constante.  
-🚀 Siempre buscando crecer y explorar nuevas formas de crear con código. 
+💻 Hola, soy Hugo, desarrollador de software orientado a la construcción de soluciones tecnológicas eficientes y de calidad. Me interesa el aprendizaje constante y la mejora continua, lo que me impulsa a explorar nuevas herramientas y metodologías dentro del desarrollo. Disfruto trabajar en proyectos que representen un reto, fomenten la innovación y me permitan aportar valor tanto a nivel técnico como en el trabajo en equipo.
 
 ---
 
