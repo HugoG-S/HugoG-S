@@ -46,6 +46,7 @@
 
 ## 📈 Estadísticas de GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoG-S&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoG-S)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoG-S&layout=compact&theme=dracula)
 
