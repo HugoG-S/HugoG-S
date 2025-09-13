@@ -22,7 +22,6 @@
 </p>
 
 
-
 - **Bases de datos:** 
 <p align="left">
   • <span style="font-size:18px; font-weight:bold;">MySQL</span>
