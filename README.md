@@ -8,19 +8,20 @@
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:**
 <p align="left">
-  · <span style="font-size:16px;">Python</span>
+  • <span style="font-size:18px; font-weight:bold;">Python</span>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
   </a><br>
-  · <span style="font-size:16px;">Java</span>
+  • <span style="font-size:18px; font-weight:bold;">Java</span>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" />
   </a><br>
-  · <span style="font-size:16px;">Dart</span>
+  • <span style="font-size:18px; font-weight:bold;">Dart</span>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" />
   </a>
 </p>
+
 
 
 - **Bases de datos:** 
