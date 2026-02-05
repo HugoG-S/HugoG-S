@@ -44,10 +44,6 @@
 
 ---
 
-## 📈 Estadísticas de GitHub 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoG-S&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoG-S&langs_count=8&theme=onedark)
 
 ---
 
