@@ -43,7 +43,7 @@
 </p>
 
 ---
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HugoG-S?cardType=github&theme=radical&fontFamily=Asul&preferLogin=false&Ring=DD2727&Title=DD2727)](https://git.io/awesome-stats-card)
 
 ---
 
